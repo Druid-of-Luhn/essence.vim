@@ -1,6 +1,8 @@
 # Essence.vim
 
-Syntax highlighting and indentation for the [Essence](https://conjure.readthedocs.io/en/latest/essence.html) and [Essence'](http://savilerow.cs.st-andrews.ac.uk/index.html) modelling languages.
+Syntax detecting, highlighting and concealing for the [Essence](https://conjure.readthedocs.io/en/latest/essence.html) and [Essence'](http://savilerow.cs.st-andrews.ac.uk/index.html) modelling languages.
+
+Syntax concealing code adapted from [https://github.com/Bilalh/Essence-Syntax-Highlighting]().
 
 ## Installation
 
