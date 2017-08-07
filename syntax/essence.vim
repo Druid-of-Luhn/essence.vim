@@ -8,7 +8,7 @@ if exists('b:current_syntax')
 endif
 
 " Essence language declaration
-syntax match essenceLanguage "language \(Essence\|ESSENCE\)'\= \d\.\d"
+syntax match essenceLanguage "language \(Essence\|ESSENCE\)'\= \d\(\.\d\)*"
 
 " Keywords in comments
 syntax keyword essenceNote contained FIXME NOTE TODO XXX
