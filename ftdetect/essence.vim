@@ -1,7 +1,7 @@
 " File:         essence.vim
 " Author:       Billy Brown
 " Description:  Filetype detection of the Essence and Essence' modelling languages.
-" Version:      1.0
+" Version:      1.1
 
 autocmd BufNewFile,BufRead *.essence,*.eprime,*.param,*.rule,*.repr,*.essence.out,*.essence.log,*.essence.err,*.solution set filetype=essence
 autocmd BufRead * call s:Essence()

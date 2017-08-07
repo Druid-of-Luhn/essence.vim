@@ -1,7 +1,7 @@
 " File:         essence.vim
 " Author:       Billy Brown
 " Description:  Syntax highlighting for the Essence and Essence' modelling languages.
-" Version:      1.0
+" Version:      1.1
 
 if exists('b:current_syntax')
     finish
